@@ -9,7 +9,7 @@ const [open, setOpen] = useState(false);
 
 return ( <nav className="w-full bg-black/50 absolute top-0 left-0 h-20 flex items-center justify-between px-6 text-white z-50">
 
-```
+
   {/* Logo */}
   <div className="flex items-center gap-2">
     <img src={logo} alt="logo" className="w-12 rounded-2xl" />
